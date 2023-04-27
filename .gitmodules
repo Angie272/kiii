@@ -1,0 +1,12 @@
+[submodule "KIII-1"]
+	path = KIII-1
+	url = https://github.com/Angie272/KIII-1
+[submodule "KIII-Homework"]
+	path = KIII-Homework
+	url = https://github.com/Angie272/KIII-Homework
+[submodule "KIII-Jenkins"]
+	path = KIII-Jenkins
+	url = https://github.com/Angie272/KIII-Jenkins
+[submodule "kiii-5"]
+	path = kiii-5
+	url = https://github.com/Angie272/kiii-5
